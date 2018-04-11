@@ -1,0 +1,45 @@
+.shake{
+
+	animation:shake 5s infinite;
+}
+
+@keyframes shake{
+	from, to {
+		transform: transform(0,0,0);
+	}
+
+	10%, 30%, 50%, 70%, 90%{
+		-webkit-transform:translate3d(-10px,0,0);
+		translate: translate3d(-10px,0,0);
+	}
+
+	20%, 40%, 60%, 80%{
+		-webkit-transform:translate3d(-10px,0,0);
+		translate: translate3d(-10px,0,0);
+	}
+
+	}
+
+	.box {
+		border-style:solid;
+		border-width:1px;
+	}
+
+	.box:hover{
+		background-color:red;
+		width:200px;
+		height:200px;
+		transform:rotate(180deg);
+	}
+
+	.zoom-box {
+		border-style:solid;
+		border-width:1px;
+		display:block;
+		width:100px;
+		height:100px;
+		background-color: blue;
+		animation:zoom 5s infinite;
+
+	}
+}
