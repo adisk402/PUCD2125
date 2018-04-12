@@ -258,4 +258,10 @@ p{
 
 a:hover{
 	color:#FE7F01;
+	transition: all 500ms ease;
+}
+
+a img:hover{
+	width:32.8%;
+	transition: all 500ms ease;
 }
