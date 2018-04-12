@@ -194,6 +194,7 @@ p{
 	margin-top:80px;
 	display:absolute;
 	width: 100%;
+
 }
 
 .large{
@@ -211,7 +212,7 @@ p{
 .content-img{
 	margin-top:5%;
 	display:inline-block;
-	position:absolute;
+	position:relative;
 	padding:20px;
 }
 
@@ -230,7 +231,7 @@ p{
     background-color:rgba(0,0,0,0.5); 
     z-index:3; 
     cursor: pointer; 
-    margin:0 auto;
+    margin:0 ;
     display:none;
 }
 
@@ -238,4 +239,23 @@ p{
 	margin-left:20px;
 	font-style:none;
 	color:black;
+	margin-top:0;
+}
+
+.image-full{
+
+	background-image:cover;
+	margin:10%;
+	width:100%;
+
+}
+
+.contact-info{
+	margin-top:5%;
+	margin-bottom:5%;
+	color:#B7B7B7;
+}
+
+a:hover{
+	color:#FE7F01;
 }
