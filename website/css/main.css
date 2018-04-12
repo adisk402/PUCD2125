@@ -231,7 +231,7 @@ p{
     background-color:rgba(0,0,0,0.5); 
     z-index:3; 
     cursor: pointer; 
-    margin:0 ;
+    margin:0 auto;
     display:none;
 }
 
