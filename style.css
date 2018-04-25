@@ -13,8 +13,8 @@ html,body{
 	}
 
 .video{
-	display:absolute;
 	width: 100%;
+}
 }
 
 .wrapper{
@@ -130,6 +130,7 @@ a{
 	display:inline;
 	margin-bottom:20%;
 }
+
 
 }
 
