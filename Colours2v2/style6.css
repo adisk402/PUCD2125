@@ -1,0 +1,16 @@
+body{
+	background-image: url(img/pagey.jpg);
+	background-size: 1280px;
+}
+
+a{
+	display:block;
+	color:yellow;
+	font-size:100px;
+	font-family:helvetica;
+	margin-top: 70px;
+
+}
+.wrapper{
+	top:20%;
+}

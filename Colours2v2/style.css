@@ -1,0 +1,153 @@
+body{
+	background-image: url(img/1.jpg);
+	background-size: 1250px;
+	z-index:0;
+	position: fixed;
+}
+
+.text{
+
+	display:block;
+	color:#012568;
+	font-size:100px;
+	font-family:helvetica;
+	margin-top: 70px;
+	z-index:1;
+	position: fixed;
+}
+
+.container{
+	display:inline;
+	color: white;
+	margin:0 auto;
+	position:fixed;
+	bottom:-78px;
+	overflow: hidden;
+    width: 1250px;
+    z-index:2;
+}
+
+.q{
+	position: relative;
+    margin-bottom: px;
+    left:194px;
+    overflow: hidden;
+}
+
+.q:hover{
+	content: url(img/ch1w.png);
+	width:110px;
+	overflow: hidden;
+}
+
+.w{
+	position: relative;
+    margin-bottom: -40px;
+    right: 67px;
+    overflow: hidden;
+}
+
+.w:hover{
+	content: url(img/ch2w.png);
+	width:132px;
+	overflow: hidden;
+}
+
+.e{
+	position: relative;
+    margin-bottom: px;
+    left:-108px;
+    overflow: hidden;
+}
+
+.e:hover{
+	content: url(img/ch3w.png);
+	width:85px;
+	overflow: hidden;
+}
+
+.r{
+	position: relative;
+    margin-bottom:-10px;
+    left:53px;
+    overflow: hidden;
+}
+
+.r:hover{
+	content: url(img/ch4w.png);
+	width:120px;
+	overflow: hidden;
+}
+
+.t{
+	position: relative;
+    margin-bottom:px;
+    left:-230px;
+    overflow: hidden;
+}
+
+.t:hover{
+	content: url(img/ch5w.png);
+	width:180px;
+	overflow: hidden;
+}
+
+.y{
+	position: relative;
+    margin-bottom:-14px;
+    left:-352px;
+    overflow: hidden;
+}
+
+.y:hover{
+	content: url(img/ch6w.png);
+	width:160px;
+	overflow: hidden;
+}
+
+
+.u{
+	position: relative;
+    margin-bottom:3px;
+    left:-120px;
+    overflow: hidden;
+}
+
+.u:hover{
+	content: url(img/ch7w.png);
+	width:140px;
+	overflow: hidden;
+}
+
+.i{
+	position: relative;
+    margin-bottom:3px;
+    left:-302px;
+    overflow: hidden;
+}
+
+.i:hover{
+	content: url(img/ch8w.png);
+	width:190px;
+	overflow: hidden;
+}
+
+
+.o{
+	position: relative;
+    margin-bottom:3px;
+    left:-370px;
+    overflow: hidden;
+}
+
+.o:hover{
+	content: url(img/ch9w.png);
+	width:130px;
+	overflow: hidden;
+}
+
+.p{
+	position: relative;
+    margin-bottom:20px;
+    left:px;
+}
