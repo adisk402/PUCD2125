@@ -1,0 +1,23 @@
+body {
+	background-color: #ffeaea;
+}
+
+h1{
+	font-family: 'Abril Fatface', cursive;
+	font-size:70px;
+	color:#4ee047;
+}
+
+.content{
+	margin:30px;
+}
+
+h2{
+	font-family: 'Abril Fatface', cursive;
+	color:#f73679;
+}
+
+p{
+	font-family: 'Didact Gothic', sans-serif;
+
+}
